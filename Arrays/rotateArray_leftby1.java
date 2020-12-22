@@ -19,7 +19,7 @@ class array_rotate{
 }
 
 
-public class rotateArray_by1 {
+public class rotateArray_leftby1 {
 
 	public static void main(String[] args) {
 		
